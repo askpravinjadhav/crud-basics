@@ -1,6 +1,8 @@
 body {
   font-family: 'Poppins', sans-serif; 
     margin: 0 50px;
+    background-color: #3d384b;
+    color: #e0daf1;
   }
   
   .container {
@@ -19,6 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
   }
   
   .options {
@@ -33,3 +36,4 @@ body {
   #msg {
     color: red;
   }
+  
