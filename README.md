@@ -1,1 +1,1 @@
-# crud-basics
+This project is a minimalist social media app interface. Users can create posts using a simple form. The app allows users to edit and delete their posts. The interface is clean and intuitive, focusing on essential features for a seamless user experience. Technologies used include HTML, CSS, and JavaScript.
